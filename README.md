@@ -1,21 +1,11 @@
 # PoyectoFinal
 Entrega final proyecto Blog en Django con Python para Coderhouse
 
-Video demostración:
-https://www.loom.com/share/f9e13e06e85c4045b48e8d4672570758
-
-
 Pagina Inicio:
 ![image](https://user-images.githubusercontent.com/109445669/216763033-d8842fda-f163-43da-a80f-8c8d3c15e218.png)
 
 Listado de paginas:
 ![image](https://user-images.githubusercontent.com/109445669/216763050-147b7513-0305-4c56-ac7f-55de0d848273.png)
-
-Pagina About:
-![image](https://user-images.githubusercontent.com/109445669/216763068-6902cc49-79e8-4ff8-b101-b3ea01ef0dc6.png)
-
-Registro de usuario:
-![image](https://user-images.githubusercontent.com/109445669/216763083-8bc84265-2d38-45a4-92ea-62c89c4a4f1d.png)
 
 Login:
 ![image](https://user-images.githubusercontent.com/109445669/216763095-a9404eb5-d426-48d1-a2a2-43b8ed9b8b5e.png)
