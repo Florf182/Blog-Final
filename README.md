@@ -1,4 +1,4 @@
-# PoyectoFinal
+# ProyectoFinal
 Entrega final proyecto Blog en Django con Python para Coderhouse
 
 Pagina Inicio:
