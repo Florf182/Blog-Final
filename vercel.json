@@ -1,18 +1,21 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "ProyectoFinal/wsgi.py",
-      "use": "@vercel/python"
+    "version": 2,
+    "builds": [
+      {
+        "src": "ProyectoFinal/settings.py",
+        "use": "@vercel/python"
+      }
+    ],
+    "routes": [
+      {
+        "src": "(.*)",
+        "dest": "ProyectoFinal/wsgi.py"
+      }
+    ],
+    "env": {
+      "PYTHONUNBUFFERED": "1"
     }
-  ],
-  "routes": [
-    {
-      "src": "(ProyectoFinal/wsgi.py)",
-      "dest": "/Blog-Final/ProyectoFinal/wsgi.py"
-    }
-  ],
-  "env": {
-    "PYTHONUNBUFFERED": "1"
   }
-}
+
+
+
