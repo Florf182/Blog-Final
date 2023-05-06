@@ -8,8 +8,8 @@
   ],
   "routes": [
     {
-      "src": "//(*)",
-      "dest": "/Blog-Final/wsgi.py"
+      "src": "(ProyectoFinal/wsgi.py)",
+      "dest": "/Blog-Final/ProyectoFinal/wsgi.py"
     }
   ],
   "env": {
