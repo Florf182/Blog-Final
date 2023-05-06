@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/(proyecto final/manage.py*)",
+      "src": "/(Proyectofinal/manage.py*)",
       "dest": "/manage.py"
     }
   ],
